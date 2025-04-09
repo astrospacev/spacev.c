@@ -1,8 +1,5 @@
 <h1 align="center">Astrospace MD</h1>
 
-<p align="center">
-  <img src="[[https://files.catbox.moe/vq52zs.jpeg](https://files.catbox.moe/vq52zs.jpeg)](https://files.catbox.moe/vq52zs.jpeg)" alt="Astrospace MD Logo" width="200"/>
-</p>
 
 <p align="center">
   Powerful & customizable WhatsApp MD bot using <b>Baileys</b>.<br>
