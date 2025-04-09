@@ -1,7 +1,7 @@
 <h1 align="center">Astrospace MD</h1>
 
 <p align="center">
-  <img src="[[https://i.ibb.co/VvZGPXr/astrospacelogo.png](https://files.catbox.moe/vq52zs.jpeg)](https://files.catbox.moe/vq52zs.jpeg)" alt="Astrospace MD Logo" width="200"/>
+  <img src="[[https://files.catbox.moe/vq52zs.jpeg](https://files.catbox.moe/vq52zs.jpeg)](https://files.catbox.moe/vq52zs.jpeg)" alt="Astrospace MD Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 ## ℹ️ Informasi Bot
 
 **Kontak Bot:** [Astrospace MD](https://wa.me/62857059457516)  
-**Grup/Channel Bot:** [Klik Disini](https://whatsapp.com/channel/0029VaVguZr5q08f0z5C8g1u)
+**Grup Bot:** [Klik Disini](https://whatsapp.com/channel/0029VaVguZr5q08f0z5C8g1u)
+**Channel Bot:** [Klik Disini](https://whatsapp.com/channel/0029VaVguZr5q08f0z5C8g1u)
 
 ---
 
-## 🔥 Special Features
-## 🔥 Special Features
+## 🔥 Available Features
 
 | Fitur Utama             | Lainnya                   | Ekstra & Games            |
 |-------------------------|---------------------------|---------------------------|
