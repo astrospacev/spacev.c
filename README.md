@@ -1,7 +1,7 @@
 <h1 align="center">Astrospace MD</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/VvZGPXr/astrospacelogo.png" alt="Astrospace MD Logo" width="200"/>
+  <img src="[[https://i.ibb.co/VvZGPXr/astrospacelogo.png](https://files.catbox.moe/vq52zs.jpeg)](https://files.catbox.moe/vq52zs.jpeg)" alt="Astrospace MD Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -13,17 +13,17 @@
 
 ## ✨ Kontak Kami (WhatsApp)
 
-**[XFrmann]** (Real Owner/Pengembang)  
+**[XFrmann]** (Real Owner)  
 [![XFrmann](https://img.shields.io/badge/XFrmann-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/19419318284)
 
-**[VDavinn]** (Moderator)  
+**[DavinnPrtm]** (Moderator)  
 [![VDavinn](https://img.shields.io/badge/VDavinn-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/639483849927)
 
 ---
 
 ## ℹ️ Informasi Bot
 
-**Bot Utama:** [Astrospace MD](https://wa.me/62857059457516)  
+**Kontak Bot:** [Astrospace MD](https://wa.me/62857059457516)  
 **Grup/Channel Bot:** [Klik Disini](https://whatsapp.com/channel/0029VaVguZr5q08f0z5C8g1u)
 
 ---
