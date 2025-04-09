@@ -29,6 +29,16 @@
 ---
 
 ## 🔥 Special Features
+## 🔥 Special Features
+
+| Fitur Utama             | Lainnya                   | Ekstra & Games            |
+|-------------------------|---------------------------|---------------------------|
+| 🗃️ • Button             | 📮 • Pinterest Slide      | 🎋 • 100 Rpg Games        |
+| 🧧 • Template Menu      | 🎶 • Spotify Downloader   | 🧮 • 40 Mini Games        |
+| ⛓️ • Grup Otomatis      | 💮 • Play YouTube         | 💣 • Anti Bot             |
+| 🧰 • Antilink/Welcome   | 📡 • Sambutan Premium     | ⛓‍💥 • Jadibot (Scan Only) |
+| 🎉 • Giveaway Group     | 🤖 • AI & AI Image        | 🪸 • 60 AI Features       |
+| 🔫 • Buckshot Game      |                           | 📊 • Leveling & Roles     |
 
 ---
 
